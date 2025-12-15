@@ -1,0 +1,8 @@
+# Eclipse
+bin/
+*.class
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
